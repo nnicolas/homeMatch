@@ -1,6 +1,6 @@
 # HomeMatch
 
-This application leverages large language models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs, without compormising the integrity of the original listings.
+This application leverages large language models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs, without compromising the integrity of the original listings.
 
 ![](app_screenshot.png)
 
@@ -12,17 +12,17 @@ We've included two sets of responses: one tailored for urban-oriented buyers and
 
 ## Important files
 
-| File                    | Note                                                           |
-| ----------------------- | -------------------------------------------------------------- |
-| Listings.txt            | A file containg sample listings in JSON format                 |
-| HomeMatch.ipynb         | Jupyter notebook                                               |
-| my_opanai_api_helper.py | A python file containg helper methods to access the OpenAI API |
+| File                    | Note                                                             |
+| ----------------------- | ---------------------------------------------------------------- |
+| Listings.txt            | A file containing sample listings in JSON format                 |
+| HomeMatch.ipynb         | Jupyter notebook                                                 |
+| my_opanai_api_helper.py | A python file containing helper methods to access the OpenAI API |
 
 ## Dependencies
 
 All required libraries are listed in "requirements.txt".
 
-They can be insdtalled using the following pip command.
+They can be installed using the following pip command.
 
 ```
 pip install -r requirements.txt
